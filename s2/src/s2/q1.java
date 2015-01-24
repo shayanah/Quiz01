@@ -1,5 +1,5 @@
 package s2;
-
+//version 2
 import java.util.Scanner;
 
 public class q1 {
